@@ -1,4 +1,4 @@
 /* Very small custom tweaks */
 #tabsList .tab { cursor: pointer; }
-#tabsList .tab.active { background: #eef2ff; }
-#contentFrame { background: white; }
+#tabsList .tab.active { background: #586baa; }
+#contentFrame { background: rgb(28, 45, 83); }
