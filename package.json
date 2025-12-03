@@ -1,0 +1,1 @@
+{"name":"proxy-browser","version":"1.0.0","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"cheerio":"^1.1.2","express":"^4.22.1","express-rate-limit":"^6.7.0","helmet":"^6.0.1","morgan":"^1.10.0","node-fetch":"^2.7.0"}}
